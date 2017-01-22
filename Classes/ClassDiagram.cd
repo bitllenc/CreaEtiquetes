@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CreaEtiquetes.TSPLEtiqueta" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABAAQAhAAEAACQAAAAICAAKQ4AEAEQIAAAAAEA=</HashCode>
+      <FileName>Classes\CEtiqueta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.TSPLImpressora" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABANggBAAACAKCAQALAAAAkQCgAIAAMICBQIAUA=</HashCode>
+      <FileName>Classes\CImpressora.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CreaEtiquetes.CElementText" Collapsed="true">
+    <Position X="5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIAAACAAAgAAACAAggAAAAAAAAAAAAgACgAAAAA=</HashCode>
+      <FileName>Classes\ElementsEtiqueta\CElementText.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.CElementBarcode" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAEAAAQAEAAAABAAAAAACBAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Classes\ElementsEtiqueta\CElementBarcode.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.CElementPCX" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAGA=</HashCode>
+      <FileName>Classes\ElementsEtiqueta\CElementPCX.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.CElementBMP" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAGA=</HashCode>
+      <FileName>Classes\ElementsEtiqueta\CElementBMP.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.CElementBar" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ElementsEtiqueta\CElementBar.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.CElementBox" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Classes\ElementsEtiqueta\CElementBox.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreaEtiquetes.TSPLElementEtiqueta" Collapsed="true">
+    <Position X="7" Y="1.75" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="CreaEtiquetes.TSPLElementEtiqueta.celTypeOfElement" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\CElementEtiqueta.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAABAIAAAAEAAAAAAAAEAIBAAAAEAAAAAAAEA=</HashCode>
+      <FileName>Classes\CElementEtiqueta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
